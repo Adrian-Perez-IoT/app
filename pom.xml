@@ -17,6 +17,11 @@
     </properties>
 
     <dependencies>
+        <!-- <dependency>
+           <groupId>com.mysql.jdbc</groupId>
+            <artifactId>mysql-java-client</artifactId>
+            <version>8.0.23</version>
+        </dependency>-->
         <dependency>
             <groupId>javax.mvc</groupId>
             <artifactId>javax.mvc-api</artifactId>
